@@ -3,8 +3,8 @@ package GitLearning.GitLearningArtifact;
 public class LoginTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("LoginTest");
+		System.out.println("ChangeMade");
 	}
 
 }
